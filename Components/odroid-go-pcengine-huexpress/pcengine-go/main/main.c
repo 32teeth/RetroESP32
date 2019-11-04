@@ -39,7 +39,7 @@ extern char *syscard_filename;
     #include "../components/odroid/odroid_hud.h"
     int ACTION;
 #endif
-
+    
 #define NOINLINE  __attribute__ ((noinline))
 
 const char* SD_BASE_PATH = "/sd";
@@ -333,6 +333,7 @@ void DoMenuHome(bool save)
 
     #ifdef CONFIG_IN_GAME_MENU_YES 
         //odroid_display_lock();
+        EmuAudio(false);
         hud_menu();
         printf("\nACTION:%d\n", ACTION); 
         switch(ACTION) {
@@ -349,6 +350,7 @@ void DoMenuHome(bool save)
             break;   
         }               
         ili9341_clear(0);  
+        EmuAudio(true);
         odroid_display_unlock();    
     #else
         // Clear audio to prevent studdering

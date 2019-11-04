@@ -1,6 +1,6 @@
-[![Release](https://img.shields.io/github/v/release/retro-esp32/RetroESP32?style=for-the-badge)]()
-[![Downloads](https://img.shields.io/github/downloads/retro-esp32/RetroESP32/total?style=for-the-badge)]()
-
+[![Release](https://img.shields.io/github/v/release/retro-esp32/RetroESP32?style=for-the-badge)](https://github.com/retro-esp32/RetroESP32/releases/tag/v.1.1.0-Font-Size-Fix)
+[![Downloads](https://img.shields.io/github/downloads/retro-esp32/RetroESP32/total?style=for-the-badge&color=hotpink&logo=data:image/gif;base64,R0lGODlhYgB3AKIFAMwAAN9fX/THx88PD////////wAAAAAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzggNzkuMTU5ODI0LCAyMDE2LzA5LzE0LTAxOjA5OjAxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxNyAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpCOUQzNzMwM0RENzcxMUU5ODg0M0IzRDNEM0E3MUNENSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpCOUQzNzMwNERENzcxMUU5ODg0M0IzRDNEM0E3MUNENSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkI5RDM3MzAxREQ3NzExRTk4ODQzQjNEM0QzQTcxQ0Q1IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkI5RDM3MzAyREQ3NzExRTk4ODQzQjNEM0QzQTcxQ0Q1Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+Af/+/fz7+vn49/b19PPy8fDv7u3s6+rp6Ofm5eTj4uHg397d3Nva2djX1tXU09LR0M/OzczLysnIx8bFxMPCwcC/vr28u7q5uLe2tbSzsrGwr66trKuqqainpqWko6KhoJ+enZybmpmYl5aVlJOSkZCPjo2Mi4qJiIeGhYSDgoGAf359fHt6eXh3dnV0c3JxcG9ubWxramloZ2ZlZGNiYWBfXl1cW1pZWFdWVVRTUlFQT05NTEtKSUhHRkVEQ0JBQD8+PTw7Ojk4NzY1NDMyMTAvLi0sKyopKCcmJSQjIiEgHx4dHBsaGRgXFhUUExIREA8ODQwLCgkIBwYFBAMCAQAAIfkEAQAABQAsAAAAAGIAdwAAA/9YtNz+MMpJq3Xq6s27/2AojmRpnmiqrmzrvnAsz7Ra3Hiu73zv/z0XcEgsEoXGpLKIXDqfuSZ0qpRSr0MrdsvTcr83L5grHmPLZio6DV2zne53tSX/xutMOv4MEgQGAQIRe3wfAQCIAYOEaiADiAADi4xtIIeJk5RwfX+BmZpzLKBPd6M6paY4qKkZoqxGq6mxprOjtaC3mrmUu4y9hL97wXjDdcVyx2/JbMtpzWbPY9Fg03Z6r0fX2EDVZNrbPt1b4oUr4Fnf5zvkV+yNrupBGq019RL09vkMYfr9C/z+8qkKaC8KwXoGD8pYpzBGl4ZoIJqLR7GixYsYM2rcyLGoo8ePIL3tC1npXrsJ2yycNMlq3hQKrzi8RCmrQ8lPumySoklL5yaWuD7sBJrTw1CcvoT+RApMqbwT5Qg8NBoOxUyiVKtCPQo061MTXHl6nQp2iUyAF9BtTZLVJTeroTYk5Pl2LSyfaCHctZttbF6zcPfiHRc4j19ldK8ORpb45llhjR2nTUpUsVvIlSWrpMw0LExekS2HZpz53WjSnUVjIMmVtevXSRIAADs=)](https://github.com/retro-esp32/RetroESP32/releases)
+[![Last Commit](https://img.shields.io/github/last-commit/retro-esp32/RetroESP32/Software?style=for-the-badge&logo=github)]()
 ------
 #### Buy Us A Coffee
 > It's Not Mandatory, But Much [Appreciated](https://www.paypal.me/32teeth/1.99USD)
@@ -24,10 +24,8 @@ Retro ESP32 Team
 This branch contains the specific modification for the Odroid Go hardware to use the 320x240 ILI9342 2.6" and 240x320 ILI9341 display
 
 - [x] Odroid Go - [Firmware](https://github.com/OtherCrashOverride/odroid-go-firmware)
-- [x] Odroid Go - [Go Play Emulators](https://github.com/OtherCrashOverride/go-play)
-- [x] Launcher based on [GoGo](https://bitbucket.org/odroid_go_stuff/gogo/src/master/) Launcher
 - [x] ROM Management
-- [x] Config for both ILI9341/2 
+- [x] Config for both ILI9341/2
 
 ## Supported Emulators
 > What else do you need to know, there are 11 currently supported
@@ -142,12 +140,7 @@ You can copy this onto your *SD Card* into the ***odroid/firmware*** folder
 
 ### Build and Load OTA
 > Follow Onscreen Prompts
-> if this is your first time running the executable, answer **Y** to the options
-
-**NOTE:** This will flash your device
-```
-./ota
-```
+> if this is your first time running the executable, answer **Y** to the applicable options
 
 ### OTA
 > Flash directly to ESP32
@@ -158,7 +151,25 @@ This is the easiest option, simple follow the onscreen prompts!
 ./ota
 ```
 
+*note:*
+
+You will need to set the SPI ram for the emulators
+
+| Screen Grab | Instructions |
+| ---- |---- |
+| ![Assets/SPI/001.jpg](Assets/SPI/001.jpg) |   Answer **Y**   |
+| ![Assets/SPI/002.jpg](Assets/SPI/002.jpg) |   Answer **N**   |
+| ![Assets/SPI/003.jpg](Assets/SPI/003.jpg) |   Answer **Y** (This is IMPORTANT)   |
+| ![Assets/SPI/004.jpg](Assets/SPI/004.jpg) |   Navigate to ```Component config -->```   |
+| ![Assets/SPI/005.jpg](Assets/SPI/005.jpg) |   Navigate to ```ESP32-specific -->```   |
+| ![Assets/SPI/006.jpg](Assets/SPI/006.jpg) |   Navigate to ```SPI RAM config -->```   |
+| ![Assets/SPI/007.jpg](Assets/SPI/007.jpg) |   Navigate to ```Type of SPI RAM chip in use (some value) -->```   |
+| ![Assets/SPI/007.jpg](Assets/SPI/008.jpg) |   Select ```Auto-detect```   |
+
+
+
 ### Erase
+
 > Erase flash and storage from ESP32
 
 ```
@@ -194,10 +205,9 @@ make menuconfig
   * *Select* **LCD Driver Chip**
   * *Select* **MENU Key Options**
   * *Select* **In Game Menu**
-  
+
 3. Run ```./ota```  (see above)
 
 |   Splash   |   Navigation   |   ROM State Management   |   Run   |
 | ---- | ---- | ---- | ---- |
 |  ![](Assets/launcher/splash.jpg)    | ![](Assets/launcher/games.jpg)    | ![](Assets/launcher/manager.jpg)    | ![](Assets/launcher/run.jpg)    |
-
